@@ -1,4 +1,4 @@
-package com.instances.resturent_finder.utils
+package com.primetech.foodies.utils
 
 import android.content.Context
 import android.content.SharedPreferences

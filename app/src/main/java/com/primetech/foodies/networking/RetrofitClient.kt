@@ -3,7 +3,7 @@ package com.primetech.foodies.networking
 
 import com.google.gson.GsonBuilder
 import com.primetech.foodies.utils.Constants.Companion.BASE_URL
-import com.instances.resturent_finder.utils.PrefManager
+import com.primetech.foodies.utils.PrefManager
 import com.primetech.foodies.App
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient

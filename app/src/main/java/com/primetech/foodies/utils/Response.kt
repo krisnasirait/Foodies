@@ -1,7 +1,6 @@
 package com.primetech.foodies.utils
 
 import com.google.gson.annotations.SerializedName
-import com.primetech.foodies.networking.response.Data
 import java.io.Serializable
 
 data class Response (
