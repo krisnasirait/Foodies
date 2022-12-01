@@ -23,7 +23,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Kuliner Yogyakarta"
+            android:text="Explore The World"
             android:textColor="@color/white"
             android:textSize="18sp"
             android:layout_marginTop="20dp"
@@ -51,23 +51,13 @@
             android:id="@+id/tv_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Kuliner Populer"
-            android:textColor="@color/black"
+            android:text="Best Place For You"
+            android:textColor="@color/app_color"
+            android:textSize="18sp"
+            android:fontFamily="@font/poppins_bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintBottom_toTopOf="@+id/rating"/>
-        <RatingBar
-            android:id="@+id/rating"
-            android:layout_width="wrap_content"
-            android:layout_height="40dp"
-            android:scaleX="0.6"
-            android:scaleY="0.6"
-            android:rating="3.7"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tv_name"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"/>
+            app:layout_constraintTop_toTopOf="parent" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <com.google.android.material.card.MaterialCardView
@@ -75,7 +65,7 @@
         android:layout_width="0dp"
         android:layout_height="150dp"
         app:cardCornerRadius="10dp"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="40dp"
         android:layout_marginEnd="5dp"
         android:layout_marginStart="10dp"
         app:layout_constraintEnd_toStartOf="@+id/cv_cafay"
@@ -85,24 +75,22 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent">
             <ImageView
-                android:id="@+id/iv_resturent"
+                android:id="@+id/iv_restaurant"
                 android:layout_width="match_parent"
                 android:layout_height="120dp"
                 android:src="@drawable/img_resturent"
                 android:scaleType="centerCrop"
-                android:padding="10dp"
-                app:layout_constraintTop_toTopOf="parent"/>
+                app:layout_constraintTop_toTopOf="parent" />
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Resturent"
+                android:text="RESTAURANT"
                 android:textSize="16sp"
-                android:textColor="@color/black"
+                android:fontFamily="@font/poppins_bold"
+                android:textColor="@color/dark_cyan"
                 app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/iv_resturent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintEnd_toEndOf="parent"/>
-
+                app:layout_constraintEnd_toEndOf="parent" />
         </androidx.constraintlayout.widget.ConstraintLayout>
     </com.google.android.material.card.MaterialCardView>
 
@@ -111,7 +99,7 @@
         android:layout_width="0dp"
         android:layout_height="150dp"
         app:cardCornerRadius="10dp"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="40dp"
         android:layout_marginEnd="10dp"
         android:layout_marginStart="5dp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -126,14 +114,14 @@
                 android:layout_height="120dp"
                 android:src="@drawable/img_cafay"
                 android:scaleType="centerCrop"
-                android:padding="10dp"
                 app:layout_constraintTop_toTopOf="parent"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Cafe"
+                android:text="CAFE"
                 android:textSize="16sp"
-                android:textColor="@color/black"
+                android:fontFamily="@font/poppins_bold"
+                android:textColor="@color/dark_cyan"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/iv_cafay"
                 app:layout_constraintStart_toStartOf="parent"
@@ -161,14 +149,14 @@
                 android:layout_height="120dp"
                 android:src="@drawable/img_bars"
                 android:scaleType="centerCrop"
-                android:padding="10dp"
                 app:layout_constraintTop_toTopOf="parent"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Bars"
+                android:text="BARS"
                 android:textSize="16sp"
-                android:textColor="@color/black"
+                android:fontFamily="@font/poppins_bold"
+                android:textColor="@color/dark_cyan"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/iv_bar"
                 app:layout_constraintStart_toStartOf="parent"

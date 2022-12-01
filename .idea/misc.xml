@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Project/Kotlin/Foodies/app/src/main/res/drawable/bg_home_top.xml" value="0.247" />
+        <entry key="..\:/Project/Kotlin/Foodies/app/src/main/res/layout/activity_detail.xml" value="0.271286231884058" />
+        <entry key="..\:/Project/Kotlin/Foodies/app/src/main/res/layout/activity_list.xml" value="0.271286231884058" />
         <entry key="..\:/Project/Kotlin/Foodies/app/src/main/res/layout/activity_main.xml" value="0.365625" />
         <entry key="..\:/Project/Kotlin/Foodies/app/src/main/res/layout/activity_map.xml" value="0.36666666666666664" />
+        <entry key="..\:/Project/Kotlin/Foodies/app/src/main/res/layout/fragment_home.xml" value="0.33" />
         <entry key="..\:/Project/Kotlin/Foodies/app/src/main/res/layout/fragment_search.xml" value="0.15416666666666667" />
+        <entry key="..\:/Project/Kotlin/Foodies/app/src/main/res/layout/item_cafe.xml" value="0.271286231884058" />
         <entry key="..\:/Project/Kotlin/Foodies/app/src/main/res/menu/menu_bottom_nav.xml" value="0.19010416666666666" />
       </map>
     </option>
