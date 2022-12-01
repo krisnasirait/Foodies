@@ -8,6 +8,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.primetech.foodies.R
+import com.primetech.foodies.activities.DetailActivity
 import com.primetech.foodies.databinding.ItemCafeBinding
 import com.primetech.foodies.utils.Constants.Companion.DATA
 import com.primetech.foodies.utils.Data
@@ -50,7 +51,7 @@ class Adapter(
             binding.tvName.text = image.name
 
             itemView.setOnClickListener {
-                var intent = Intent(itemView.context,DetailActivity::class.java)
+                var intent = Intent(itemView.context, DetailActivity::class.java)
                 intent.putExtra(DATA,image)
                 itemView.context.startActivity(intent)
             }

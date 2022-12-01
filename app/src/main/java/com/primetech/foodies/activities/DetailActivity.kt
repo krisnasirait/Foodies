@@ -1,8 +1,8 @@
 package com.primetech.foodies.activities
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.google.android.gms.maps.CameraUpdateFactory
@@ -12,7 +12,6 @@ import com.google.android.gms.maps.SupportMapFragment
 import com.google.android.gms.maps.model.LatLng
 import com.google.android.gms.maps.model.MarkerOptions
 import com.primetech.foodies.R
-import com.primetech.foodies.activities.MapActivity
 import com.primetech.foodies.databinding.ActivityDetailBinding
 import com.primetech.foodies.utils.Constants.Companion.DATA
 import com.primetech.foodies.utils.Data
