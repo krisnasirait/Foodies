@@ -14,4 +14,6 @@
     <color name="grey_300">#E0E0E0</color>
     <color name="white_100">#FCFBFC</color>
     <color name="light_green">#E5E5E5</color>
+
+    <color name="dark_cyan">#0A60AF</color>
 </resources>

@@ -1,0 +1,283 @@
+[{
+  "key": "restaurant",
+  "data": [{
+    "name": "Brooklyn Delicatessen",
+    "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dsc-0167-1514070067.jpg",
+    "description": "Hot sandwiches & comfort food dished up in an establishment with a laid-back ambiance.",
+    "lat": "43.743992",
+    "long": "-73.958144",
+    "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+    "hour": "02:00 pm to 02:00 am"
+  },
+    {
+      "name": "Victory Sweet Shop/Victory",
+      "url": "https://media.cntraveler.com/photos/5859aad8eaa56c5e65d43539/master/w_2048,h_1536,c_limit/best-restaurants-NYC-Charlie-Bird-interior-2016.jpg",
+      "description": "This peaceful Greek establishment is part bakery, part restaurant & boasts a quiet garden ambiance.",
+      "lat": "41.743392",
+      "long": "-73.988134",
+      "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+      "hour": "08:00 am to 02:00 am"
+    },
+    {
+      "name": "Marea",
+      "url": "https://media.houseandgarden.co.uk/photos/61893d550a583de6601249f4/1:1/w_1335,h_1335,c_limit/manhatta_dining.jpg",
+      "description": "High-end Italian seafood & housemade pastas in a chic Central Park South setting.",
+      "lat": "40.243992",
+      "long": "-73.981234",
+      "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+      "hour": "09:00 am to 02:00 am"
+    },
+    {
+      "name": "The Chef's Table at Brooklyn Fare",
+      "url": "https://media.architecturaldigest.com/photos/5696dc42a7d16cbd6b658acf/2:1/w_2595,h_1297,c_limit/stylish-new-york-restaurants-07.jpg",
+      "description": "Chef Thomas Keller's New American restaurant offers luxe fixed-price menus, with Central Park views.",
+      "lat": "40.743902",
+      "long": "-76.988144",
+      "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+      "hour": "08:00 am to 01:00 am"
+    },
+    {
+      "name": "Gabriel Kreuther",
+      "url": "https://loving-newyork.com/wp-content/uploads/2020/01/Peak-Restaurant-200115181124001-scaled.jpg",
+      "description": "Sophisticated French cooking presented in chic, airy environs with salvaged-wood beams.",
+      "lat": "40.741992",
+      "long": "-75.988144",
+      "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+      "hour": "04:00 pm to 02:00 am"
+    },
+    {
+      "name": "Casa Mono",
+      "url": "https://static01.nyt.com/images/2020/11/04/dining/04Outdoor5/04Outdoor5-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale",
+      "description": "Small-plate fans gather at this intimate Gramercy nook for upscale Spanish fare & a deep wine list.",
+      "lat": "40.743962",
+      "long": "-74.988144",
+      "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+      "hour": "03:00 pm to 03:00 am"
+    },
+    {
+      "name": "Gramercy Tavern",
+      "url": "https://hips.hearstapps.com/toc.h-cdn.co/assets/17/01/lebernardin-daniel-krieger.jpg",
+      "description": "Danny Meyer's Flatiron District tavern with a fixed-price-only dining room & a bustling bar area.",
+      "lat": "40.742992",
+      "long": "-70.988144",
+      "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+      "hour": "02:00 pm to 09:00 pm"
+    },
+    {
+      "name": "ATOMIX",
+      "url": "https://www.restaurant-hospitality.com/sites/restaurant-hospitality.com/files/nyc-mayor-deblasio-makes-outdoor-dining-permanently-legal_0.jpg",
+      "description": "Upscale Korean restaurant offering a chef's tasting menu with beverage pairings in chic environs.",
+      "lat": "40.763992",
+      "long": "-71.988144",
+      "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+      "hour": "08:00 am to 02:00 am"
+    },
+    {
+      "name": "Eleven Madison Park",
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/5a/a2/44/interior.jpg",
+      "description": "Upscale American tasting menus from chef Daniel Humm served in a high-ceilinged art deco space.",
+      "lat": "40.743993",
+      "long": "-72.988144",
+      "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+      "hour": "08:00 am to 02:00 am"
+    },
+    {
+      "name": "Padella",
+      "url": "https://www.lecafecoffee.com/wp-content/uploads/2019/02/slide1_cafecofee-1024x683.jpg",
+      "description": "Modern bistro with a short list of housemade pasta dishes accompanied by wine & Italianate drinks.",
+      "lat": "40.744993",
+      "long": "-72.988144",
+      "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+      "hour": "08:00 am to 02:00 am"
+    }
+  ]
+},
+  {
+    "key": "cafe",
+    "data": [{
+      "name": "Bar Pasquale",
+      "url": "https://media.timeout.com/images/105624014/image.jpg",
+      "description": "Bar Pasquale up in an establishment with a laid-back ambiance.",
+      "lat": "43.7482992",
+      "long": "-73.958144",
+      "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+      "hour": "02:00 pm to 03:00 am"
+    },
+      {
+        "name": "Victory Sweet Shop",
+        "url": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/11/Cover-New-York-Cafesepb0310.jpg",
+        "description": "This peaceful Greek establishment is part cafe & boasts a quiet garden ambiance.",
+        "lat": "41.743702",
+        "long": "-73.988134",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "11:00 am to 01:00 am"
+      },
+      {
+        "name": "Gregorys Coffee",
+        "url": "https://media.architecturaldigest.com/photos/56e9c2af6836c03a28818cca/16:9/w_2580,c_limit/Devocion.jpg",
+        "description": "cafe in a chic Central Park South setting.",
+        "lat": "40.893992",
+        "long": "-73.981234",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "12:00 am to 02:00 am"
+      },
+      {
+        "name": "Frisson Espresso",
+        "url": "https://images.squarespace-cdn.com/content/v1/5a3bb03b4c326d76de73ddaa/1646011440970-83IHDUUK8Z65OFCZGV4B/The+Common+Wanderer-406.jpg",
+        "description": "Frisson Espresso offers luxe fixed-price menus, with Central Park views.",
+        "lat": "40.72102",
+        "long": "-76.988144",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "08:00 am to 02:00 am"
+      },
+      {
+        "name": "Little Collins",
+        "url": "https://imageio.forbes.com/specials-images/imageserve/613231dee3d117ff8f5b41cb/Victor-s-Cafe/960x0.jpg",
+        "description": "Little Collins presented in chic, airy environs with salvaged-wood beams.",
+        "lat": "40.741452",
+        "long": "-75.988144",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "08:00 am to 02:00 am"
+      },
+      {
+        "name": "John's Coffee Shop",
+        "url": "https://pyxis.nymag.com/v1/imgs/1a3/225/983025b78104b881d97745d02224ac8d37-bony-all-day-cafes-hunky-dory-new-2.rhorizontal.w700.jpg",
+        "description": "John's Coffee Shop fans gather at this intimate Gramercy nook for upscale Spanish fare & a deep wine list.",
+        "lat": "40.74394",
+        "long": "-74.988144",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "08:00 am to 02:00 am"
+      },
+      {
+        "name": "Café Integral",
+        "url": "https://jessieonajourney.com/wp-content/uploads/2019/09/blank-slate-tea-1.jpg",
+        "description": "Danny Meyer's Flatiron District tavern with a fixed-price-only dining room coffee & a bustling bar area.",
+        "lat": "40.442992",
+        "long": "-70.988144",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "08:00 am to 02:00 am"
+      },
+      {
+        "name": "In Common NYC Cafe",
+        "url": "https://images.squarespace-cdn.com/content/v1/565cd0a8e4b0c377c477620b/1452199641476-3A8VTWYA307FSGUA49YI/Photo+Dec+23%2C+4+07+05+PM.jpg",
+        "description": "In Common NYC Cafe tasting menu with beverage pairings in chic environs.",
+        "lat": "40.763392",
+        "long": "-71.988144",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "12:00 pm to 02:00 am"
+      },
+      {
+        "name": "Blank Slate Coffee + Kitchen NoMad",
+        "url": "https://assets3.thrillist.com/v1/image/3052592/792x528",
+        "description": "Blank Slate Coffee + Kitchen NoMad in a high-ceilinged art deco space.",
+        "lat": "40.713993",
+        "long": "-72.988144",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "02:00 pm to 01:00 am"
+      },
+      {
+        "name": "O Cafe",
+        "url": "https://media.istockphoto.com/id/1317827657/photo/people-sitting-outside-a-trendy-hipster-cafe-in-brooklyn.jpg",
+        "description": "Organic, sustainable Brazilian coffees & snacks are offered at cozy Village coffee shop.",
+        "lat": "40.913993",
+        "long": "-72.988144",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "08:00 am to 02:00 am"
+      }
+    ]
+  },
+  {
+    "key": "Bars",
+    "data": [{
+      "name": "The Shepherd",
+      "url": "https://www.nycgo.com/images/articles/38241/dearirving__facebook.jpeg",
+      "description": "Craft beer & elevated pub fare including brunch, dished up in a funky tavern setting with TV sports.",
+      "lat": "43.7482992",
+      "long": "-73.958144",
+      "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+      "hour": "01:00 pm to 02:00 am"
+    },
+      {
+        "name": "Bar 54",
+        "url": "https://assets.bonappetit.com/photos/5a26c941f6c5233cc2301d21/master/pass/NYC-Holiday-Balthazar.jpg",
+        "description": "Rooftop bar offering sweeping views of Midtown, along with a playful cocktail program.",
+        "lat": "41.743702",
+        "long": "-73.988134",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "03:00 pm to 05:00 am"
+      },
+      {
+        "name": "The Dead Rabbit",
+        "url": "https://media.timeout.com/images/103377942/image.jpg",
+        "description": "This 2-story spot combines a lunch taproom with a parlor serving small plates & vintage cocktails",
+        "lat": "40.893992",
+        "long": "-73.981234",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "02:00 pm to 02:00 am"
+      },
+      {
+        "name": "Attaboy",
+        "url": "https://media.timeout.com/images/103172475/750/562/image.jpg",
+        "description": "Innovative, creative cocktails & classic concoctions mixed up in a trendy industrial-style space.            ",
+        "lat": "40.72102",
+        "long": "-76.988144",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "08:00 am to 02:00 am"
+      },
+      {
+        "name": "Apotheke Chinatown",
+        "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/a5/e7/78/terra-blues.jpg",
+        "description": "The Carlyle Hotel's sophisticated, upscale piano bar, adorned with Ludwig Bemelmans' famed murals.                 ",
+        "lat": "40.741452",
+        "long": "-75.988144",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "08:00 am to 02:00 am"
+      },
+      {
+        "name": "Bemelmans Bar",
+        "url": "https://media.cntraveller.com/photos/611bead6f902cc2d167b3ff8/16:9/w_2580,c_limit/azul-on-the-rooftop-at-hotel-hugo-new-york-conde-nast-traveller-13may16-pr_1.jpg",
+        "description": "Hideaway with a Prohibition-esque vibe, offering cocktails in teacups and beer in paper bags.                 ",
+        "lat": "40.74394",
+        "long": "-74.988144",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "01:00 pm to 03:00 am"
+      },
+      {
+        "name": "The Back Room",
+        "url": "https://media.timeout.com/images/105779101/750/562/image.jpg",
+        "description": "Creative craft cocktails & snacks in a petite brick-walled space with some banquette seats & stools.            ",
+        "lat": "40.442992",
+        "long": "-70.988144",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "08:00 am to 02:00 am"
+      },
+      {
+        "name": "Please Don't Tell",
+        "url": "https://static01.nyt.com/images/2020/05/22/opinion/22cecchini/merlin_158593797_fc2a3b85-a64b-4324-ab70-84b5b6779809-articleLarge.jpg",
+        "description": "Patrons who enter through a phone booth in Crif Dogs next door sip novel cocktails in a dark space.                 ",
+        "lat": "40.763392",
+        "long": "-71.988144",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "08:00 am to 02:00 am"
+      },
+      {
+        "name": "Death & Company",
+        "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pen111114-1-0031-1580490850.jpg",
+        "description": "Bartenders in bow ties & suspenders recall the speakeasy era at this dark, moody cocktail lounge.",
+        "lat": "40.713993",
+        "long": "-72.988144",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "03:00 am to 02:00 am"
+      },
+      {
+        "name": "Ophelia Lounge NYC",
+        "url": "https://www.telegraph.co.uk/content/dam/Travel/Destinations/North%20America/USA/New%20York/Nightlife/new-york-bars-dead-rabbit-p.jpg",
+        "description": "Rooftop lounge at the Beekman Tower sporting plush banquettes, cocktails & East River views.                ",
+        "lat": "40.713293",
+        "long": "-72.988144",
+        "food": "Masala Dosa. Idli and Meduvada, Butter Chicken, Paneer Tikka, Chhole Bhature, Vada Pav.Chaat",
+        "hour": "02:00 pm to 03:00 am"
+      }
+    ]
+  }
+]
