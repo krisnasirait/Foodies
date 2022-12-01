@@ -1,4 +1,4 @@
-package com.instances.resturent_finder.networking.response
+package com.primetech.foodies.networking.response
 
 import com.google.gson.annotations.SerializedName
 

@@ -1,4 +1,4 @@
-package com.instances.resturent_finder.networking
+package com.primetech.foodies.networking
 
 import android.util.Log
 

@@ -1,10 +1,10 @@
-package com.instances.resturent_finder.networking
+package com.primetech.foodies.networking
 
 
 import com.google.gson.GsonBuilder
-import com.instances.resturent_finder.App
-import com.instances.resturent_finder.utils.Constants.Companion.BASE_URL
+import com.primetech.foodies.utils.Constants.Companion.BASE_URL
 import com.instances.resturent_finder.utils.PrefManager
+import com.primetech.foodies.App
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
 import okhttp3.Request
@@ -27,7 +27,7 @@ object RetrofitClient {
 
     // this is setting up of client request which things we need to send or get  from api
     private fun buildClient(): OkHttpClient {
-        var manager: PrefManager = PrefManager(App.getAppContext()!!)
+        val manager = PrefManager(App.getAppContext()!!)
 
         clientBuilder.addInterceptor(getLogginInterceptor())
             .addInterceptor { chain ->
@@ -41,7 +41,7 @@ object RetrofitClient {
             }.writeTimeout(60, TimeUnit.SECONDS).connectTimeout(5, TimeUnit.SECONDS)
             .readTimeout(60, TimeUnit.SECONDS)
 
-        return clientBuilder.build();
+        return clientBuilder.build()
     }
 
     // this is logging intercemptor which gives error and response in log

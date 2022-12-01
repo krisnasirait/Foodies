@@ -1,7 +1,9 @@
 package com.instances.resturent_finder.networking
 
-import com.instances.resturent_finder.networking.request.LoginRequest
-import com.instances.resturent_finder.networking.response.LoginResponse
+import com.primetech.foodies.networking.request.LoginRequest
+import com.primetech.foodies.networking.ApiListener
+import com.primetech.foodies.networking.NetworkingHelper
+import com.primetech.foodies.networking.response.LoginResponse
 
 
 class NetworkingModel : NetworkingHelper() {

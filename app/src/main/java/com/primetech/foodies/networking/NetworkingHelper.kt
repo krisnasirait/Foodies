@@ -1,8 +1,8 @@
-package com.instances.resturent_finder.networking
+package com.primetech.foodies.networking
 
-import com.instances.resturent_finder.networking.RetrofitClient.getApiEndpointImpl
-import com.instances.resturent_finder.networking.request.LoginRequest
-import com.instances.resturent_finder.networking.response.LoginResponse
+import com.primetech.foodies.networking.RetrofitClient.getApiEndpointImpl
+import com.primetech.foodies.networking.request.LoginRequest
+import com.primetech.foodies.networking.response.LoginResponse
 
 // this class help to call get the retrofit instance in networking model class where api is calling
 abstract class NetworkingHelper {

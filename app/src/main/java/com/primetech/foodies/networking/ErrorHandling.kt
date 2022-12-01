@@ -1,10 +1,10 @@
-package com.instances.resturent_finder.networking
+package com.primetech.foodies.networking
 
 
 
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
-import com.instances.resturent_finder.utils.Constants
+import com.primetech.foodies.utils.Constants
 import retrofit2.Response
 
 interface BaseErrorHandler {
