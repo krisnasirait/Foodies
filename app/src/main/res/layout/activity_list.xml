@@ -5,5 +5,35 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".activities.ListActivity">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/bg_home_top"
+        app:layout_constraintTop_toTopOf="parent">
+       <EditText
+           android:id="@+id/et_search"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:drawableStart="@drawable/ic_search"
+           android:padding="@dimen/_3sdp"
+           android:hint="@string/str_search"
+           android:drawablePadding="@dimen/_10sdp"
+           android:layout_marginHorizontal="@dimen/_25sdp"
+           app:layout_constraintTop_toTopOf="parent"
+           app:layout_constraintBottom_toBottomOf="parent"
+           android:background="@drawable/bg_rating"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_data"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:visibility="visible"
+        app:layout_constrainedHeight="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/toolbar" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
