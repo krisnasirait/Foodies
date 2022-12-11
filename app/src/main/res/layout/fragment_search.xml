@@ -16,7 +16,7 @@
             android:id="@+id/tv_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Kuliner Yogyakarta"
+            android:text="Map"
             android:textColor="@color/white"
             android:textSize="18sp"
             android:layout_marginTop="20dp"
